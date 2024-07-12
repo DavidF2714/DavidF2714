@@ -26,7 +26,7 @@ _Aug 2020 - Present_
 ## Skills
 
 🛠️ **Languages**: 
-- 🇬🇧 English (C1)
+- 🇺🇸 English (C1)
 - 🇫🇷 French (B1)
 - 🇲🇽 Spanish (Native)
 
