@@ -11,7 +11,7 @@
 
 ## About Me
 
-🚀 As a diligent and forward-thinking student, I have gained a diverse skill set through hands-on projects spanning full-stack development, Google Cloud programming, and network design. I am committed to continuous learning and growth in the ever-evolving field of technology.
+🚀 As a diligent and forward-thinking individual, I have gained a diverse skill set through hands-on projects spanning full-stack development, Google Cloud programming, and network design. I am committed to continuous learning and growth in the ever-evolving field of technology.
 
 ---
 
