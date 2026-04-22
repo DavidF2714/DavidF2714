@@ -19,7 +19,7 @@
 
 🎓 **B.S. in Computer Science and Technology**  
 *Instituto Tecnológico y de Estudios Superiores de Monterrey*  
-_Aug 2020 - Present_
+_Aug 2021 - July 2025_
 
 ---
 
